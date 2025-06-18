@@ -12,6 +12,7 @@ Next, we’ll be setting up intentional vulnerabilities in our enterprise lab en
 We’ll then deploy Wazuh, an open-source SIEM tool used for detecting, preventing, and responding to threats across on-prem, cloud, and containerized environments.
 
 **Part 3 - Provisioning and setting Ubuntu Desktop**
+
 This will be another workstation in our enterprise network, running Ubuntu—a popular Linux distribution based on Debian. Ubuntu is known for its stability, security, and ease of use, making it suitable for a wide range of environments, including cloud computing, servers, desktops, and IoT devices. It’s commonly used in both development and production settings across the tech industry.
 
 Part 4 -
