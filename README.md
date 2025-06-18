@@ -8,4 +8,5 @@ Active Directory (AD) is a system developed by Microsoft that helps organization
 
 **Part 2 - SettingUp vulnerable Enviroment**
 
-Next up will be setting up vulnerabilities in our enterprise network enviroment .This ofcourse is not best for industry practices and is an exception for demonstration purposes.One would ask why cyber professionals setup these vulnerable configurations,whats the cause ?Do you know why ?
+Next, we’ll be setting up intentional vulnerabilities in our enterprise lab environment. While not standard in real-world systems, this is done for learning and testing purposes—to better understand how attacks work and how to defend against them.
+We’ll then deploy Wazuh, an open-source SIEM tool used for detecting, preventing, and responding to threats across on-prem, cloud, and containerized environments.
