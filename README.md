@@ -6,3 +6,4 @@ During the course of my project ill be taking you through a Cybersecurity HomeLa
 
 Active Directory (AD) is a system developed by Microsoft that helps organizations manage and organize their computers, users, and other resources in a network. Think of it like a digital phone book that stores important information and makes sure only the right people can access the right things. It's used to log in, control permissions, and keep everything secure and organized—making it a key part of most Windows-based business environments.Essentaily,AD is what we will utalize for enterprise network .
 
+**Part 2 - SettingUp vulnerable Enviroment**
