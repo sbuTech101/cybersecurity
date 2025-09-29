@@ -13,6 +13,9 @@ Active Directory is widely used in enterprise environments to streamline and sec
 4. Group Policy Management- Administrators can enforce security settings, deploy software, and manage updates across the network using Group Policy Objects (GPOs).
 5. Integration with Other Services -Active Directory integrates seamlessly with services like Microsoft Exchange, Azure AD, and other enterprise applications.
 
+So this Project we start off by setting up our machines network adapter we do this so we allow the easy communication of our machines.
+
+
 
 https://github.com/sbuTech101/cybersecurity/blob/324e00a11acd71576f1a87587a890354d08d07de/windows%20server%20enterprise/network%20adapter%201.PNG
 
